@@ -7,8 +7,8 @@ Lots of fun to read stories about High performant teams. Discusses the ways to b
 
 *"Hello World" in the world of leadership. Great starting point for any person in leadership*
 
-###  Turn the Ship Around - the submarine captain David Marquet
-David has graduated with top marks and got a chance to become a captain of submarine. Book goes through 3 stories.
+###  Turn the Ship Around by L. David Marquet
+David has graduated with top marks and got a chance to become a captain of submarine. Book describes 3 stories:
 
 * Small submarine where he applied leader-to-follower approached and scored top evaluations.
 * Bigger submarine which was too big to be responsible for everything. He tried to apply Leader-to-Leader approach (inspired by Simon Sinnek and others). But failed.
@@ -42,14 +42,12 @@ This book is essentially a big summary of 3 other books written by Brene Brown. 
 *A lot of dense information. I caught myself constantly reverting 30 seconds back as my mind was still thinking on previous point.*
 
 ###  Multipliers
-leadership book that descibes leaders as either "multipliers" or "deminishers". Discusses differences. A lot fo examples 
+leadership book that descibes leaders as either "multipliers" or "deminishers". Discusses differences. A lot of examples 
 
- 
-*Another list of examples of good/bad leaders.* 
-*Great definition of intelligence as "The ability to see intelligence in other people".* 
+*Another list of examples of good/bad leaders.*
+*Great definition of intelligence as "The ability to see intelligence in other people".*
 *In addition has a great example of how person can lead people using questions without any statements*
 *However some phrases like "I conducted a research" without any details/statistics of research leaved me uncertain if I can trust the information.*
-
 
 ### Summary of leadership books
 I believe that this is the order for leadership books:
@@ -63,13 +61,13 @@ I do strongly believe that first three books are "starter" pack for each leader
 ### Accelerate: The Science of Lean Software and DevOps
 Scientific researched was conducted on thousands of IT companies. Discusses what metrics used, what outcomes they found. Great summary on how to achieve high performance in team.
 
-* Helps to identify where is your team on the scale of performance. A great guide and goal to aim for.*
+*Helps to identify where is your team on the scale of performance. A great guide and goal to aim for.*
 *In case if you listen the book ignore descriptions of charts. It is not very important.
  
 ### Project Phoenix by Gene Kim, George Spafford, and Kevin Behr
 A novel about devops. Easy to read story about fixing whole IT department.
 
-*Emphasises the importence of Devops movement. In my opinion it contains too little useful information per time to read. However it's extreemely interesting and fun to read.* 
+*Emphasises the importence of Devops movement. In my opinion it contains too little useful information per time to read. However it's extreemely interesting and fun to read.*
 
 #Personal development
 
@@ -97,7 +95,7 @@ The book is based on big research of company pairs acting in the same time, same
 ### How to win friends and influence people by Dale Carnegie
 Teaches on how to find the best in every single person and use it into you own advantage.
 
-*I’ve read this book when I was 16 because I wanted to influence people. It tought me see the best in everybody while doing that. 
+*I’ve read this book when I was 16 because I wanted to influence people. Instead this book has tought me see the best in everybody while doing that.*
 *When I reread it at ages 22/26 I understood that the book teaches you to like people around you and enjoy the life.*
 *I believe that Influence part of the book is a side-effect rather than the primary goal.*
 *This book had the strongest influence on me as an individual.*
