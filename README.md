@@ -39,7 +39,7 @@ A very short book contains a novel about a dysfunctional team and the way it was
 ###  Dare to Lead by Brene Brown
 This book is essentially a big summary of 3 other books written by Brene Brown. She is a legendary woman who has lead companies to success. Covers similar topics to Culture Code/Dare to lead but from different angle.
 
-*A lot of dense information. I caught myself constantly reverting 30 seconds back as my mind was still thinking on previous point. David Carboni called Culture Code, Leaders eat Last and Dare to lead as a trilogy introduction into leadership. I tend to agree. However it’s pretty big time investment.*
+*A lot of dense information. I caught myself constantly reverting 30 seconds back as my mind was still thinking on previous point.*
 
 ###  Multipliers
 leadership book that descibes leaders as either "multipliers" or "deminishers". Discusses differences. A lot fo examples 
@@ -78,12 +78,15 @@ Eye opening book for all conversations. Describes the situation and then analyse
 
 *If you ask me to name 1 book that has changed my life the most in 8 hours that would be it. Must read for you, you partner and your children when they grow up 😊 I have already recommended to most of my friends/family members.*
 
+### Pig Wrestling by Mark Bawden and Pete Lindsay
+This book uses memory palace technique to teach you a framework that could be applied to solve "unsolvable" problem
+
+*Authors condensed a lot of tools into short framework and 4 hours of listening audio book. I've listened this book second time. Great book*
 
 ### The Life Changing Magic of Not Giving a F**k by Sarah Knight
 Most of us have a lot of things to worry about. The book gives direct advices and suggestions how to minimize the things you don’t like/want to do in order to free up time/mental health for the things that actually matter to you.
 
 *Great book that helped to look at some personal stuff from different point of view. I wish I would have applied more often. I have already recommended to most of my friends/family members.*
-
 
 ### Great By Choice by James C. Collins
 The book is based on big research of company pairs acting in the same time, same conditions. Some of them died, others prevailed. Authors have made parallels between successful (10xer) CEOs behaviours.
@@ -94,7 +97,9 @@ The book is based on big research of company pairs acting in the same time, same
 ### How to win friends and influence people by Dale Carnegie
 Teaches on how to find the best in every single person and use it into you own advantage.
 
-*I’ve read this book when I was 16 because I wanted to influence people. It changed me find the best in everybody while doing that. When I reread it at ages 22/26 I understood that the book teaches you to like people around you and enjoy the life. I think that Influence part of the book is a side-effect rather than the primary goal.
-This book had the strongest influence on me as a character. I’ve made almost every single family person to read it. Nobody was disappointed.*
+*I’ve read this book when I was 16 because I wanted to influence people. It tought me see the best in everybody while doing that. 
+*When I reread it at ages 22/26 I understood that the book teaches you to like people around you and enjoy the life.*
+*I believe that Influence part of the book is a side-effect rather than the primary goal.*
+*This book had the strongest influence on me as an individual.*
 
  
