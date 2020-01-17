@@ -24,7 +24,7 @@ The book is written by author who worked in Google and Apple with great leaders 
 ###  Drive by Dan Pink
 This book consists of researches around motivation. Explains why intrinsic motivation is the main source of drive in modern companies.
 
-*This book is inderectly related ot leadership. However motivation of people is one of deciding factors for productivity in teams. I think all leaders should be aware about it.*
+*This book is indirectly related to leadership. However motivation of people is one of deciding factors for productivity in teams. I think all leaders should be aware about it.*
 
 ###  Leaders eat Last by Simon Sinnek
 Further expansion on the Culture Code. Contains actually scientific background to all the stories in Culture Code. Discusses Dopamine, Serotonin, Oxytocin, etc. hormones and describes how it helped our ancestors to survive and how it could be applied in modern office.
@@ -42,7 +42,7 @@ This book is essentially a big summary of 3 other books written by Brene Brown. 
 *A lot of dense information. I caught myself constantly reverting 30 seconds back as my mind was still thinking on previous point.*
 
 ###  Multipliers
-leadership book that descibes leaders as either "multipliers" or "deminishers". Discusses differences. A lot of examples 
+leadership book that describes leaders as either "multipliers" or "diminishers". Discusses differences. A lot of examples 
 
 *Another list of examples of good/bad leaders.*
 *Great definition of intelligence as "The ability to see intelligence in other people".*
@@ -67,7 +67,7 @@ Scientific researched was conducted on thousands of IT companies. Discusses what
 ### Project Phoenix by Gene Kim, George Spafford, and Kevin Behr
 A novel about devops. Easy to read story about fixing whole IT department.
 
-*Emphasises the importence of Devops movement. In my opinion it contains too little useful information per time to read. However it's extreemely interesting and fun to read.*
+*Emphasises the importance of Devops movement. In my opinion it contains too little useful information per time to read. However it's extremely interesting and fun to read.*
 
 #Personal development
 
@@ -95,7 +95,7 @@ The book is based on big research of company pairs acting in the same time, same
 ### How to win friends and influence people by Dale Carnegie
 Teaches on how to find the best in every single person and use it into you own advantage.
 
-*I’ve read this book when I was 16 because I wanted to influence people. Instead this book has tought me see the best in everybody while doing that.*
+*I’ve read this book when I was 16 because I wanted to influence people. Instead this book has taught me see the best in everybody while doing that.*
 *When I reread it at ages 22/26 I understood that the book teaches you to like people around you and enjoy the life.*
 *I believe that Influence part of the book is a side-effect rather than the primary goal.*
 *This book had the strongest influence on me as an individual.*
