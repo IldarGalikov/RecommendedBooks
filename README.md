@@ -1,4 +1,18 @@
-I’ve been asked multiple times by different people to share the list of books I do recommend.
+#What is this page about?
+
+I do strongly believe that reading the book is one of the most time effecient way to consume information.  
+The reason for that is that authors of books spend years to describe information in the most convenient way.
+
+The biggest change in my life has happened with discovery of audiobooks. 
+It helped me to transform the most boring time waste(Commute to/from work, gym, shopping) into learning!
+
+I've devided books into 3 sections:
+* Leadership
+* IT Books
+* Personal development
+
+
+Each book section consists of my personal description folloed by *my opinion in italic*
 
 # Leadership
 
