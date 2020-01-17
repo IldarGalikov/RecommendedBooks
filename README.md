@@ -4,7 +4,7 @@ I’ve been asked multiple times by different people to share the list of books 
 
 ## Culture Code By Daniel Coyle
 Description: Lots of fun to read stories about High performant teams. Discusses the ways to build high performant teams.
-My Notes: Introduction to modern leadership. Must read by any team lead who start the work here.
+*My Notes: Introduction to modern leadership. Must read by any team lead who start the work here.*
 
 ## Turn the Ship Around - the submarine captain David Marquet
 Description: David has graduated with top marks and got a chance to become a captain of submarine. Book goes through 3 stories.
