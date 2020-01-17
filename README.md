@@ -49,6 +49,11 @@ Another leadership book that describes divides leaders to "multipliers" and "dim
 *In addition has a great example of how person can lead people using questions without any statements*
 *However some phrases like "I conducted a research" without any details/statistics of research leaved me uncertain if I can trust the information.*
 
+### It Doesn't Have To Be Crazy At Work by David Heinemeier Hansson and Jason Fried
+The book that uses real life example to demonstrate that in order to be productive and succesful you do not have to be stressed and overworked.
+
+*My Takeaways. Ways to kill unnecesary meetings. Advantages of asynchronous communications at work. Will use these techniques in case if I will be expanding my company*
+
 ### Summary of leadership books
 I believe that this is the order for leadership books:
 1. Culture Code
