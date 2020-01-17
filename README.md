@@ -30,8 +30,19 @@ This book is essentially a big summary of 3 other books written by Brene Brown. 
 
 *A lot of dense information. I caught myself constantly reverting 30 seconds back as my mind was still thinking on previous point. David Carboni called Culture Code, Leaders eat Last and Dare to lead as a trilogy introduction into leadership. I tend to agree. However it’s pretty big time investment.*
 
+### Multipliers
+leadership book that descibes leaders as either "multipliers" or "deminishers". Discusses differences. A lot fo examples 
 
-##Summary of leadership books
+*Pros: 
+- another list of examples of good/bad leaders
+- I did really like definition of intelligence = The ability to see intelligence in other people
+- Great example of how person can lead people using questions without any statements
+
+Cons:
+- some phrases like "I conducted a research" without any details/statistics of research leaved me uncertain if I can trust the information.
+*
+
+## Summary of leadership books
 I believe that this is the order for leadership books:
 1. Culture Code
 2. Radical Candor
