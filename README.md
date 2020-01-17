@@ -14,10 +14,17 @@ David has graduated with top marks and got a chance to become a captain of subma
 * Bigger submarine which was too big to be responsible for everything. He tried to apply Leader-to-Leader approach (inspired by Simon Sinnek and others). But failed.
 * Huge submarine that he know almost nothing about. The submarine and it’s team was a big joke among other submarines. He managed to successfully apply leader-to-leader approach and got brilliant results.
 
-*In my opinion this is extremely important book for any leader. It empathised. *
+*In my opinion this is extremely important book for any leader. It empathised.*
 
-### Radical Candor -> The best leadership book. Must read for all
-Drive by Dan Pink -> Book about motiviation. Useful for everybody.
+### Radical Candor 
+The book is written by author who worked in Google and Apple with great leaders like Larry Page and Steve Jobs. Contains 
+
+*Probably the best leadership book. Contains a lot of great advices and practices. It helped me to discover my mistakes as a leader. When I finished reading the only thing is I wished I read it many ears earlier.*
+
+### Drive by Dan Pink
+This book consists of researches around motivation. Explains why intrinsic motivation is the main source of drive in modern companies.
+
+*This book is inderectly related ot leadership. However motivation of people is one of deciding factors for productivity in teams. I think all leaders should be aware about it.*
 
 ### Leaders eat Last by Simon Sinnek
 Further expansion on the Culture Code. Contains actually scientific background to all the stories in Culture Code. Discusses Dopamine, Serotonin, Oxytocin, etc. hormones and describes how it helped our ancestors to survive and how it could be applied in modern office.
@@ -47,8 +54,9 @@ I believe that this is the order for leadership books:
 1. Culture Code
 2. Radical Candor
 3. Turn the ship around
+4. the rest
 
-The rest of the books are great books but these 3 books should be sufficient.
+I do strongly believe that first three books are "starter" pack for each leader
 
 # IT books
 ## Accelerate: The Science of Lean Software and DevOps
