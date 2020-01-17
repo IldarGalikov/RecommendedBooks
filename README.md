@@ -19,12 +19,12 @@ David has graduated with top marks and got a chance to become a captain of subma
 ### Radical Candor 
 Kim Scott has worked in Google and Apple with great leaders like Larry Page and Steve Jobs. She shares her great experience, successes and mistakes. 
 
-* This is the best leadership book i've read so far. Contains a lot of great advices and practices. It helped me to discover my mistakes as a leader. I wish I have had read it earlier.*
+*This is the best leadership book i've read so far. Contains a lot of great advices and practices. It helped me to discover my mistakes as a leader. I wish I have had read it earlier.*
 
 ###  Drive by Dan Pink
 This book consists of researches around motivation. Explains why intrinsic motivation is the main source of drive in modern companies.
 
-*This book is indirectly related to leadership. However, motivation of people is one of deciding factors for productivity in teams. I think all leaders should be aware about it.*
+*Motivation is an important topic for most team. I think all leaders should be aware about it.*
 
 ###  Leaders eat Last by Simon Sinnek
 Further expansion on the Culture Code. Contains actually scientific background to all the stories in Culture Code. Describes dopamine,serotonin,oxytocin and endorphins hormones and describes how they helped our ancestors to survive and how it could be applied in modern office.
