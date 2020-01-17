@@ -69,6 +69,12 @@ A novel about devops. Easy to read story about fixing whole IT department.
 
 *Emphasises the importance of Devops movement. In my opinion it contains too little useful information per time to read. However, it's very fun to read.*
 
+### The Goal by Eliyahu M. Goldratt
+Nover about real plant that produces parts for customers. A beautiful story that describes how to tackle big problems in pipelines.
+
+*Nothing in this book is about IT apart from the fact that all IT processes are the same processes as in production. We have dependent events and statistical fluctuations.*
+*Previously I was tackling performance problems on the level of experience and intuition. Now I have more scientific approach and new ways to tackle problems*
+
 # Personal development
 
 ### Difficult Conversations by Bruce Patton, Douglas Stone, and Sheila Heen
