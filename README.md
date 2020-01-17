@@ -92,6 +92,11 @@ This book uses memory palace technique to teach you a framework that could be ap
 
 *Authors condensed a lot of tools into short framework and 4 hours of listening audio book. I've listened this book second time. Great book*
 
+### Never Split The Difference by Chris Voss, Tahl Raz
+A former FBI hostage negotiator describes neogitation techniques as well as the way to apply them at work
+
+*In my opinion this book is much more interesting than most action movies. Easy to read. Simple advices. Haven't heard about anybody who read and didn't like this book*
+
 ### The Life Changing Magic of Not Giving a F**k by Sarah Knight
 Most of us have a lot of things to worry about. The book gives direct advices and suggestions how to minimize the things you don’t like/want to do in order to free up time/mental health for the things that actually matter to you.
 
@@ -101,7 +106,6 @@ Most of us have a lot of things to worry about. The book gives direct advices an
 The book is based on big research of company pairs acting in the same time, same conditions. Some of them died, others prevailed. Authors have made parallels between successful 10x CEOs behaviours.
 
 *Decent book, interesting to read. This book is the most useful to CEO/CTO/Board level. I’d say it’s must read if you plan to run your own business.*
-
 
 ### How to win friends and influence people by Dale Carnegie
 Teaches on how to find the best in every single person and use it into you own advantage.
