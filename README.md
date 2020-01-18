@@ -1,11 +1,11 @@
 # What is this page about?
 I strongly believe that reading a book is one of the most time effecient ways to consume information.  
-The reason for that is authors of books spend years to figuring out how to describe information in the most convenient way.
+The reason for that is authors of books spend years figuring out how to describe information in the most convenient way.
 
-The biggest change in my life has happened with discovery of audiobooks. 
-It has helped me to transform the most boring time wasters such as commuting to or from work, burning calories at the gym or shopping into learning!
+The biggest change in my life happened with the discovery of audiobooks. 
+It helped me to transform the most boring time wasters such as commuting to or from work, running on the treadmill at the gym and shopping, into learning!
 
-I have divided the books into 3 sections:
+I have divided the books I am recommending into 3 sections:
 * Leadership
 * IT Books
 * Personal Development
