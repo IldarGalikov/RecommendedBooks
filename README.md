@@ -22,7 +22,7 @@ Lots of fun to read stories about highly performant teams and discusses how to b
 David has graduated with top marks and got a chance to become a captain of submarine. Book describes 3 stories:
 
 * Small submarine where he applied leader-to-follower approached and scored top evaluations.
-* Bigger submarine which was too big to be responsible for everything. He tried to apply Leader-to-Leader approach (inspired by Simon Sinnek and others). But failed.
+* Bigger submarine which was too big to be responsible for everything. He tried to apply Leader-to-Leader approach (inspired by Simon Sinek and others). But failed.
 * Huge submarine that he knows almost nothing about. The submarine and it’s team were a big joke among other submarines. He managed to successfully apply leader-to-leader approach and got brilliant results.
 
 *In my opinion this is the very important book for any leader.*
@@ -37,7 +37,7 @@ This book consists of researches around motivation. Explains why intrinsic motiv
 
 *Motivation is an important topic for most teams. I think all leaders should be aware of it.*
 
-### Leaders eat Last by Simon Sinnek
+### Leaders eat Last by Simon Sinek
 Further expansion on the Culture Code. Contains actually scientific background to all the stories in Culture Code. Describes dopamine, serotonin, oxytocin and endorphins, how they helped our ancestors to survive, and how it could be applied in the modern office.
 
 *A much more difficult read than the Culture Code. However, it is a great scientific addition and gave me lot of useful advice.*
